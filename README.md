@@ -22,4 +22,4 @@
 # Official Discusion
 - [Discord](https://discord.gg/JkMqE7tHKT)
 - [Whatsapp](https://chat.whatsapp.com/FD1WHwwYrpqHKJ6quUglfS)
-- [Telegram](bntr)
+- [Telegram](https://t.me/linuxbotzofc)
