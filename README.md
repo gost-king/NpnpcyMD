@@ -9,12 +9,12 @@
 <a href="#"><img title="NPBOTZ MULTI DEVICE" src="https://img.shields.io/badge/NPBOTZ MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NpnpicyAvailable/NpnpcyMD"><img title="Owner" src="https://img.shields.io/badge/Dev By Unem Team-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofficial/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofficial/Haruka-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/NpnpicyAvailable/NpnpcyMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NpnpicyAvailable/NpnpcyMD?color=red&style=flat-square"></a>
+<a href="https://github.com/NpnpicyAvailable/NpnpcyMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/NpnpicyAvailable/NpnpcyMD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/NpnpicyAvailable/NpnpcyMD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/NpnpicyAvailable/NpnpcyMD/"><img title="Size" src="https://img.shields.io/github/repo-size/NpnpicyAvailable/NpnpcyMD?style=flat-square&color=green"></a>
 </p>
 </div>
