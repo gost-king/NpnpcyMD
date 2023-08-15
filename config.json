@@ -1,0 +1,28 @@
+{
+    "bot": {
+        "name": "Ushio Noa",
+        "description": "Blue Archive: Nexon"
+    },
+    "settings": {
+        "prefix": "^[!.#]",
+        "reject_call": true,
+        "port": 5000
+    },
+    "path": {
+        "commands": "./commands",
+        "baileys_session": "./data/baileys-session",
+        "database": "./data/database.json",
+        "temporary": "./data/temp/"
+    },
+    "owner": {
+        "name": "Muhammad Rasya Saputra",
+        "alias": "mrsyasptr",
+        "number": "6285977594466@s.whatsapp.net"
+    },
+    "links": [
+        "https://www.instagram.com/mrsyasptr_",
+        "https://www.youtube.com/@mrsyasptr",
+        "https://www.github.com/mrsyasptr",
+        "https://chat.whatsapp.com/CCRj6MWIu32Jk6BoaMo22P"
+    ]
+}
