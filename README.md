@@ -20,6 +20,6 @@
 </div>
 
 # Official Discusion
-- [Discord](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Whatsapp](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Telegram](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [Discord](https://discord.gg/JkMqE7tHKT)
+- [Whatsapp](https://chat.whatsapp.com/FD1WHwwYrpqHKJ6quUglfS)
+- [Telegram](bntr)
