@@ -12,8 +12,6 @@
 <a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofficial/Haruka-Md?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofficial/Haruka-Md?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
