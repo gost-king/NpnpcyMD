@@ -1,12 +1,12 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeoneofficial/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://raw.githubusercontent.com/NpnpicyAvailable/Source/main/8eb56a7e05f773640ef420ba1bd8bcf4.jpg" alt="NPNPCYMD" width="400"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HARUKA MULTI DEVICE" src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NPBOTZ MULTI DEVICE" src="https://img.shields.io/badge/NPBOTZ MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
