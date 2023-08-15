@@ -21,14 +21,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofficial%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/zeeoneofficial/Haruka-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
-
-<p align="center">
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#Edit-Owner">Settings</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#donate">Donate</a>
-</p>
 </div>
 
 ## Donate
